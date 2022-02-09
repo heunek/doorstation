@@ -11,3 +11,11 @@ http://www.elechouse.com/elechouse/images/product/PN532_module_V3/PN532_%20Manua
 http://www.elechouse.com/elechouse/images/product/PN532_module_V3/PN532_shematic_drowing.pdf
 
 https://pinout.xyz/pinout/i2c#
+
+https://www.berrybase.de/Pixelpdfdata/Articlepdf/id/4627/onumber/RPIZ-CAM-GF
+
+https://dantheiotman.com/2017/08/28/realtime-video-using-a-raspberry-pi-zero-w-and-python-picamera/
+
+https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/0
+
+https://www.raspberrypi.com/documentation/accessories/camera.html#libcamera-jpeg
